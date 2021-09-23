@@ -4,7 +4,8 @@
 
 다음의 그림이 트리구조를 표현한 그림 입니다.
 
-https://user-images.githubusercontent.com/68115246/134507565-8650ced8-9c79-4c83-958b-6947bb915223.png
+![트리 자료구조](https://user-images.githubusercontent.com/68115246/134507565-8650ced8-9c79-4c83-958b-6947bb915223.png)
+
 
 ### 용어
 1. 루트노드 : 부모가 없는 노드로 해당 이미지에서는 1이 루트노드 입니다.
